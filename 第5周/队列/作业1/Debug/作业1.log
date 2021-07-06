@@ -1,6 +1,0 @@
-﻿  queue.c
-C:\Users\96955\Desktop\队列\作业1\源代码\queue.c(114,18): warning C4047: “函数”:“Node *”与“Node **”的间接级别不同
-C:\Users\96955\Desktop\队列\作业1\源代码\queue.c(114,16): warning C4024: “Clearqueue”: 形参和实参 1 的类型不同
-C:\Users\96955\Desktop\队列\作业1\源代码\queue.c(114,22): warning C4047: “函数”:“FNode *”与“FNode **”的间接级别不同
-C:\Users\96955\Desktop\队列\作业1\源代码\queue.c(114,20): warning C4024: “Clearqueue”: 形参和实参 2 的类型不同
-  作业1.vcxproj -> C:\Users\96955\Desktop\队列\Debug\作业1.exe

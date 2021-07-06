@@ -1,7 +1,0 @@
-﻿  栈.c
-C:\Users\96955\Desktop\第16组 陈伟剑  程玉\栈\ConsoleApplication1\栈.c(221,23): warning C4018: “<”: 有符号/无符号不匹配
-C:\Users\96955\Desktop\第16组 陈伟剑  程玉\栈\ConsoleApplication1\栈.c(209,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\96955\Desktop\第16组 陈伟剑  程玉\栈\ConsoleApplication1\栈.c(220,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\96955\Desktop\第16组 陈伟剑  程玉\栈\ConsoleApplication1\栈.c(140,9): warning C4101: “result”: 未引用的局部变量
-C:\Users\96955\Desktop\第16组 陈伟剑  程玉\栈\ConsoleApplication1\栈.c(140,6): warning C4101: “i”: 未引用的局部变量
-  ConsoleApplication1.vcxproj -> C:\Users\96955\Desktop\第16组 陈伟剑  程玉\栈\Debug\栈的基本操作.exe
