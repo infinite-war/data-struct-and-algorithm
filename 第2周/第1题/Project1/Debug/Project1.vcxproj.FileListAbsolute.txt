@@ -1,0 +1,6 @@
+C:\Users\96955\Desktop\homework\Project1\Debug\Project1.exe
+C:\Users\96955\Desktop\homework\Project1\Debug\Project1.pdb
+C:\Users\96955\Desktop\homework\Debug\Project1.pdb
+C:\Users\96955\Desktop\第1题\Debug\Project1.pdb
+C:\Users\96955\Desktop\第1题\Project1\Debug\Project1.exe
+C:\Users\96955\Desktop\第1题\Project1\Debug\Project1.pdb

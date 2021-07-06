@@ -1,0 +1,13 @@
+﻿  main.c
+  Sqlist.c
+C:\Users\96955\Desktop\item\数据结构作业\第3周\第一题\作业1\作业1\源代码\Sqlist.c(112,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\item\数据结构作业\第3周\第一题\作业1\作业1\源代码\Sqlist.c(125,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\item\数据结构作业\第3周\第一题\作业1\作业1\源代码\Sqlist.c(129,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\item\数据结构作业\第3周\第一题\作业1\作业1\源代码\Sqlist.c(137,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\item\数据结构作业\第3周\第一题\作业1\作业1\源代码\Sqlist.c(144,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\item\数据结构作业\第3周\第一题\作业1\作业1\源代码\Sqlist.c(151,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\item\数据结构作业\第3周\第一题\作业1\作业1\源代码\Sqlist.c(153,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\item\数据结构作业\第3周\第一题\作业1\作业1\源代码\Sqlist.c(160,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\item\数据结构作业\第3周\第一题\作业1\作业1\源代码\Sqlist.c(97,6): warning C4101: “result”: 未引用的局部变量
+  正在生成代码...
+  作业1.vcxproj -> C:\Users\96955\Desktop\item\数据结构作业\第3周\第一题\作业1\Debug\作业1.exe

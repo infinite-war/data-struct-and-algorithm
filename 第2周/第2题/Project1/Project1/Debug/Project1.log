@@ -1,0 +1,12 @@
+﻿  sqlist_main.c
+C:\Users\96955\Desktop\第2题\Project1\file.c\sqlist_main.c(26,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\第2题\Project1\file.c\sqlist_main.c(44,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\第2题\Project1\file.c\sqlist_main.c(59,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\第2题\Project1\file.c\sqlist_main.c(76,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\第2题\Project1\file.c\sqlist_main.c(87,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\第2题\Project1\file.c\sqlist_main.c(97,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\第2题\Project1\file.c\sqlist_main.c(99,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\第2题\Project1\file.c\sqlist_main.c(101,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\第2题\Project1\file.c\sqlist_main.c(103,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\96955\Desktop\第2题\Project1\file.c\sqlist_main.c(112,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project1.vcxproj -> C:\Users\96955\Desktop\第2题\Project1\Debug\Project1.exe
