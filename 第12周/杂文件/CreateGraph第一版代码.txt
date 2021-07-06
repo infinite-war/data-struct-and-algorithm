@@ -1,0 +1,31 @@
+    //for (int i = 1; i < MAXSIZE; i++)   for (int j = 1; j < MAXSIZE; j++)  matrix[i][j] = -1;   //邻接矩阵初始化
+    //printf("请依次输入 起点 终点 路径权值(正值)。（结点编号只能取[1，顶点数]之间的整数）\n");
+    //for (int i = 0; i < G->e; i++)
+    //{
+    //    cin >> tempa >> tempb >> tempc;
+    //    matrix[tempa][tempb] = tempc;
+    //}
+
+    //ArcNode* p;
+    //for (int i = 1; i <= G->n; i++)
+    //{
+    //    G->head[i].data = i;
+    //    G->head[i].firstarc = NULL;         //头结点初始化
+    //}
+    //
+    //for (int i = 1; i <= G->n; i++)
+    //{
+    //    for (int j = 1; j <= G->n; j++)
+    //    {
+    //        if (matrix[i][j]!=0 && matrix[i][j] != INF)
+    //        {
+    //            p = (ArcNode*)malloc(sizeof(ArcNode));
+    //            if (NULL == p) exit(ERROR);
+    //            p->archead = j;
+    //            p->weight = matrix[i][j];          
+    //            //头插法
+    //            p->nextarc = G->head[i].firstarc;
+    //            G->head[i].firstarc = p;
+    //        }
+    //    }
+    //}
